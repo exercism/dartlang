@@ -1,5 +1,8 @@
 {
-  "blurb": "TODO: add blurb for strings-basic concept",
-  "authors": [],
+  "blurb": "Provides a description of basic use cases and operations with Dart Strings",
+  "authors": [
+    "devkabiir",
+    "Stargator"
+  ],
   "contributors": []
 }
